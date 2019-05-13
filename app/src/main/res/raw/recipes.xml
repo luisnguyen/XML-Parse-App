@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+	<recipe id="1">
+		<name>Meat &amp; Poultry</name>
+	</recipe>
+	<recipe id="2">
+		<name>Comfort Food</name>
+	</recipe>
+	<recipe id="3">
+		<name>Soups</name>
+	</recipe>
+	<recipe id="4">
+		<name>Breakfast &amp; Brunch</name>
+	</recipe>
+	<recipe id="5">
+		<name>Appetizers</name>
+	</recipe>
+	<recipe id="6">
+		<name>Salads</name>
+	</recipe>
+	<recipe id="7">
+		<name>Side Dishes</name>
+	</recipe>
+	<recipe id="8">
+		<name>Desserts</name>
+	</recipe>
+	<recipe id="9">
+		<name>Fruits</name>
+	</recipe>
+	<recipe id="10">
+		<name>Vegetables</name>
+	</recipe>
+	<recipe id="11">
+		<name>Seafood</name>
+	</recipe>
+	<recipe id="12">
+		<name>Pasta &amp; Noodles</name>
+	</recipe>
+	<recipe id="13">
+		<name>Special Diets</name>
+	</recipe>
+	<recipe id="14">
+		<name>Chefs</name>
+	</recipe>
+</recipes>
